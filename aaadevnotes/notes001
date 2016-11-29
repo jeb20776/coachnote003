@@ -1,5 +1,6 @@
 Notes for Coach Dictionary
 Names: 'Coach Notes'
+ -- test addition
  -- each coach needs a way to store their notes in a quick and easy to use fashion
  -- notes about plays
  -- notes about players
@@ -9,7 +10,7 @@ Names: 'Coach Notes'
  -- notes about practices
  -- notes about administrative needs
  -- notes about other...etc...random
- 
+
 
 
  -- Ability to store notes

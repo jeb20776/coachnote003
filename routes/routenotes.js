@@ -19,7 +19,7 @@ noteRouter.route('/')
     notes.create(req.body, function (err, stat) {
         //if (err) throw err;
         if (err) { return next(err); }
-        console.log('note created man!');
+        console.log('note created manny!');
         var id = stat._id;
 
         res.writeHead(200, {
